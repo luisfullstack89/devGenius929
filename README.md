@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a full stack web/mobile app developer
-- 👀 I’m interested in working with JavaScript Frameworks as well as mobile app development.
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m a senior web frontend developer and mobile app developer with 7+ years of experience.
+- 👀 I’m interested in working with JavaScript Frameworks as well as blockchain industry.
+- 🌱 I’m currently trying to get a good experience related to blockchain industry.
+- 💞️ I’m looking to collaborate on any web/mobile development and blockchain project.
 - 📫 My email : postpartybe@gmail.com
 
 <!---
