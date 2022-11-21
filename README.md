@@ -1,7 +1,6 @@
-- 👋 Hi, I’m a senior web & mobile app developer with 7+ years of experience.
-- 👀 I’m interested in working with React, Python/Django framework as well as blockchain industry.
-- 🌱 I’m currently trying to get a good experience blockchain technology.
-- 💞️ I’m looking to collaborate on any web/mobile development and blockchain project.
+- 👋 Hi, I am a full stack developer with 8 years of experience who specializes in building responsive & dynamic web, mobile and desktop apps.
+- 👀 I’m interested in working with frontend technologies such as React & Angular, and mobile apps with react native.
+- 💞️ I’m looking for a long term opportunity.
 - 📫 My email : postpartybe@gmail.com
 
 <!---
