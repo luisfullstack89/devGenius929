@@ -1,5 +1,5 @@
-- 👋 Hi, I am a full stack developer with 8 years of experience who specializes in building responsive & dynamic web, mobile and desktop apps.
-- 👀 I’m interested in working with frontend technologies such as React & Angular, and mobile apps with react native.
+- 👋 Hi, I am a full stack developer with over 6 years of experience who specializes in building pixel-perfect, responsive and dynamic websites and web apps.
+- 👀 I’m interested in working with Angular, React, Node, Ionic and etc
 - 💞️ I’m looking for a long term opportunity.
 - 📫 My email : postpartybe@gmail.com
 
